@@ -13,8 +13,8 @@ This is a Django application that manages user data, specifically `Parent` and `
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd user_data_app
+   git clone https://github.com/sakibshadman19/django-crud-app.git
+   cd django-crud-app
 2. Install the dependencies: 
    ```bash
    pip install -r requirements.txt
